@@ -8,8 +8,8 @@
 
 Clone Repository
 
-1. Open terminal/command prompt in MAC/Windows and git clone
-2. Navigate to the '' folder
+1. Open terminal/command prompt in MAC/Windows and git clone https://github.com/OmkarBasavaraju/Ebay.git
+2. Navigate to the 'Ebay' folder
 
 Install the dependencies:
 
